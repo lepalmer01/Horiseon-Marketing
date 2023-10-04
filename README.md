@@ -36,3 +36,13 @@ Changes:
 
 HTML
 Here are the changes I made to the 
+
+
+#4
+
+CSS 
+Here i made CSS changes to the aside portion of the webpage. 
+
+
+#5
+Made HTML and CSS changes to footer section of webpage.
