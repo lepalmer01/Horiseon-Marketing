@@ -31,3 +31,8 @@ Figure and main are no longer classes. By renaming the img class to service I wa
 Changes:
 <img src="/Users/lepalmer/bootcamp/Homework/Horiseon-Marketing/assets/images/#2 After CSS changes.png">
 
+
+#3 
+
+HTML
+Here are the changes I made to the 
