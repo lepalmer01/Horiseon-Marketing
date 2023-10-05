@@ -144,3 +144,7 @@ After Changes --
 Removed footer as a class in CSS to reflect html. Added comments. 
 
 <img src="assets/images/4 After CSS Changes.png">
+
+## Credits
+
+Thank you for the tips and suggestions from Bootcamp instructors, tutors, learning assistants, classmates, and  resources. I have used http: //www.w3schools.com/ and http://www.stackoverflow.com to research information. 
